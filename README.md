@@ -11,7 +11,7 @@ Whether your strike or block is successful will depend on what your opponent doe
 - If you both strike in the same direction then your swords will clang together, causing no damage.
 (Note: an example of the "same direction" would be player 1 choosing to strike left, and player 2 choosing to strike right. As the duelists are facing towards each other, that would mean both strike in the same direction)
 
-- If you both strike opposites sides then both parties will take 5 damage.
+- If you both strike opposite sides then both parties will take 5 damage.
 
 - If you strike your opponent and they block on the opposite side, then they will take 5 damage.
 
