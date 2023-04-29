@@ -1,4 +1,4 @@
-# Duelist-clGame
+# Duelist-CL-Game
 A command line game called "Duelist" in which you engage in a rock-paper-scissors like duel with your opponent. 
 
 To run the game you just need to type "Python3 Duelist.py" into your command line
